@@ -1,4 +1,7 @@
 # findyourjob
+
+# https://suprunchuk.github.io/findyourjob/
+
 Учебный проект - Glo Academy.
 Проект выполнил: Супрунчук Павел
 
